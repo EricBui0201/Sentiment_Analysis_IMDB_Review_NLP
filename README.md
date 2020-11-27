@@ -13,7 +13,12 @@ The objective is to build the model that helps identify whether a movie review i
 
 **2.Technique**
 
-In this project, I used the natural language processing (NLP) technique in order to deal with text data. 
+In this project, I used the natural language processing (NLP) technique in order to deal with text data.
+
+Various tasks of text processing have been performed: 
+  * Text cleaning
+  * Tokenization/Stopwords/Lemmatization,
+  * Count, weigh and convert words into vector (CounTVectorizer/TFIDF)
 
 For the sake of learning process, I chose three algorithms: Logistic regression, Naives Bayes and Convolutional Neural Network. 
 
